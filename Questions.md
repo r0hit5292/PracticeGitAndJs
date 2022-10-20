@@ -12,8 +12,6 @@ Output: 3 2 1 5 4
 Explanation: First group consists of elements
 1, 2, 3. Second group consists of 4,5.
 
-reference link: https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1?page=1&curated[]=1&sortBy=submissions
-
 
 ## Q2: Leaders in an array
   Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
@@ -31,5 +29,3 @@ leader is 5. The right most element
 is always a leader so it is also 
 included.
 
-
-reference link: https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&curated[]=1&sortBy=submissions
